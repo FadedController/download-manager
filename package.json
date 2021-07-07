@@ -1,6 +1,6 @@
 {
   "name": "dir-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It listens to any folder and organizes the files inside it by extension",
   "main": "index.js",
   "bin": "index.js",
