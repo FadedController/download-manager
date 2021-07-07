@@ -1,0 +1,28 @@
+{
+  "name": "dir-sort",
+  "version": "1.0.0",
+  "description": "It listens to any folder and organizes the files inside it by extension",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Axel Padilla",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.9"
+  },
+  "keywords": [
+    "folder-manager",
+    "file-manager",
+    "download-manager",
+    "directory-sorter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}
