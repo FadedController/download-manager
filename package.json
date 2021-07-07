@@ -19,8 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/FadedController/download-manager.git"
   },
+  "bugs": {
+    "url": "https://github.com/FadedController/download-manager/issues"
+  },
+  "homepage": "https://github.com/FadedController/download-manager#readme",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
